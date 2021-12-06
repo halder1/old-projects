@@ -1,0 +1,5 @@
+print(14)
+print(2006)
+print(2938475657438291)
+print("ANGEL SNELL")
+print("owghnfierbouerojfh80wrhtbgviyervt bnn byi24we87fv4wr86gw4ybfgu4b9u53b89t3b98t43w98g4397tg2497gt474wgf8ehi8hyrithw8he9t'")
